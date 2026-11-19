@@ -4,7 +4,7 @@
 
 <br />
 
-<a href="https://bio.sacrifice-nico.com"><img src="https://img.shields.io/badge/bio.sacrifice--nico.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" /></a>
+<a href="https://sacrifice-nico.com"><img src="https://img.shields.io/badge/sacrifice--nico.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" /></a>
 <a href="https://x.com/sacrifice_nico"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://instagram.com/sacrifice_nico"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://tiktok.com/@sacrifice_nico"><img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
